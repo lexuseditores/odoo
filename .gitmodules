@@ -1,0 +1,18 @@
+[submodule "xmarts/l10n-pe/xmpe_l10n_pe_partner_api"]
+	path = xmarts/l10n-pe/xmpe_l10n_pe_partner_api
+	url = git@github.com:xmpe-l10n-pe/xmpe_l10n_pe_partner_api.git
+[submodule "xmarts/l10n-pe/xmpe_migo_api_settings"]
+	path = xmarts/l10n-pe/xmpe_migo_api_settings
+	url = git@github.com:xmpe-l10n-pe/xmpe_migo_api_settings.git
+[submodule "xmarts/l10n-pe/xmpe_l10n_pe_currency"]
+	path = xmarts/l10n-pe/xmpe_l10n_pe_currency
+	url = git@github.com:xmpe-l10n-pe/xmpe_l10n_pe_currency.git
+[submodule "xmarts/l10n-pe/l10n_pe_xmpe_api_settings"]
+	path = xmarts/l10n-pe/l10n_pe_xmpe_api_settings
+	url = git@github.com:xmpe-l10n-pe/l10n_pe_xmpe_api_settings.git
+[submodule "xmarts/l10n-pe/xmpe_promissory_note"]
+	path = xmarts/l10n-pe/xmpe_promissory_note
+	url = git@github.com:xmpe-l10n-pe/xmpe_promissory_note.git
+[submodule "xmarts/l10n-pe/xmpe_l10n_pe_account_move"]
+	path = xmarts/l10n-pe/xmpe_l10n_pe_account_move
+	url = git@github.com:xmpe-l10n-pe/xmpe_l10n_pe_account_move.git
