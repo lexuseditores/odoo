@@ -16,3 +16,6 @@
 [submodule "xmarts/l10n-pe/xmpe_l10n_pe_account_move"]
 	path = xmarts/l10n-pe/xmpe_l10n_pe_account_move
 	url = git@github.com:xmpe-l10n-pe/xmpe_l10n_pe_account_move.git
+[submodule "xmarts/init"]
+	path = xmarts/init
+	url = git@github.com:xmpe-init/init_enterprise.git
